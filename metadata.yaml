@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43241'
     url: http://www.gutenberg.org/2009/agents/43241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45354#New-Zealanders-at-Gallipoli
 gutenberg_issued: '2014-04-09'
 gutenberg_type: Text
 identifiers:
